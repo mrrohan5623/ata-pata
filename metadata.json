@@ -1,0 +1,6 @@
+{
+  "name": "Rohan Perfume",
+  "description": "Premium Pakistani luxury fragrance ecommerce platform with COD checkout, full inventory, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
